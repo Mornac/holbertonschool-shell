@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ug=rw,o=r-x hello olleh
+chmod ug+rw,o=r hello olleh
