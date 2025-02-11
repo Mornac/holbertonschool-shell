@@ -1,2 +1,2 @@
 #!/bin/bash
-touch ls_cwd_content | cat ls -la
+ls -la | grep -v cwd_state
