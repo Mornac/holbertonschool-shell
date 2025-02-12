@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -l /etc/passwd
+#!/bi/bash
+cut -d /etc/passwd | sort | column
