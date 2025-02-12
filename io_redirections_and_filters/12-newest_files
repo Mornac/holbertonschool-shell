@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -type f | head -n 10 | ls -l
+find . -type f | head -n10 | ls -l
+
