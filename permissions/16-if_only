@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R --found=guillaume vincent hello ./
+chown --found=guillaume vincent hello ./
